@@ -1,0 +1,10 @@
+  1. <mssv1>_<mssv2>_<mssv3>
+	- readme.md -> mork dowm 
+	   -> danh sách thành viên nhóm (ms,ten,email)
+	   -> link github
+	- report.docx
+	- report.pdf
+	- report.xlsx
+	- present.pptx
+	- references
+	   -> chua cac tai lieu tham khao
